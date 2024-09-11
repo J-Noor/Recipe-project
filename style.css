@@ -17,9 +17,10 @@ body{
     
 }
 
-.omlette-img{
-    width: 350px;
-    height: 350px;    
+.img img{
+    width: auto;
+    margin: 0 auto;
+    display: block;    
 }
 
 h2{
